@@ -8,4 +8,3 @@ I am _Solomon Ronald_, a software engineer who loves open source.
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about Anime and Music!
 - 📫 How to reach me: I'm on twitter [@solomonronald](https://twitter.com/SolomonRonald)
-- 😄 Pronouns: He/Him/They
